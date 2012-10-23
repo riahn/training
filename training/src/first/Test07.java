@@ -19,6 +19,7 @@ public class Test07 {
 		age = in.nextInt();
 		System.out.println("----- 실행 결과 -----");
 		System.out.println("학번: " + no + "\n이름: " + name + "\n나이: " + age);
+		
 
 	}
 
