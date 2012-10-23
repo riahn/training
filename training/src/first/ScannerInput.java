@@ -1,4 +1,4 @@
-package academy;
+package first;
 
 import java.util.Scanner;
 
