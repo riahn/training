@@ -22,7 +22,6 @@ public class BufferedReaderInput {
 		int sex = System.in.read();
 		System.out.println("\n 성별: " + "(아스키코드)" + sex + "\n" + "(문자)" + (char)sex);
 		
-
 	}
 
 }
